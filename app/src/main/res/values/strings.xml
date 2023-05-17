@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThomasWalmartTest</string>
+    <string name="btn_retry">Retry</string>
+    <string name="msg_failed_to_load_data">Failed to load country list. Please retry.</string>
+    <string name="msg_please_wait">Loading country list.\nPlease wait.</string>
+    <string name="error_no_internet">No internet connection. Please retry once you are connected to internet.</string>
+    <string name="countries">Countries</string>
+</resources>
